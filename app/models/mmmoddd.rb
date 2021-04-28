@@ -1,0 +1,2 @@
+class Mmmoddd < ApplicationRecord
+end
